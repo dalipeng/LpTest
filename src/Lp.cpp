@@ -27,7 +27,7 @@ public:
 protected:
 	int age = 110;
 private:
-	string password = "kidding2222";
+	string password = "kiddingBranchOne";
 public:
 	string getPassword() {
 		return password;
